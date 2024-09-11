@@ -15,3 +15,5 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 * [Unit 8: 2D Array](writeups/08-2d-arrays.md)
 * [Unit 9: Inheritance](writeups/09-inheritance.md)
 * [Unit 10: Recursion](writeups/10-recursion.md)
+
+[HSTAT SEP writeup docs](https://github.com/hstatsep/other/tree/main/writeups)
