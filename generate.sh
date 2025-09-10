@@ -8,5 +8,4 @@ cp template.md writeups/05-classes.md
 cp template.md writeups/06-arrays.md
 cp template.md writeups/07-arraylist.md
 cp template.md writeups/08-2d-arrays.md
-cp template.md writeups/09-inheritance.md
-cp template.md writeups/10-recursion.md
+cp template.md writeups/09-recursion.md
